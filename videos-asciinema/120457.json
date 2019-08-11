@@ -1,0 +1,2786 @@
+{
+  "width": 102,
+  "title": "meta git clone",
+  "stdout": [
+    [
+      0.214937,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r\u001b]2;mateodelnorte@Matthews-MBP: ~/development/meta-is-awesome\u0007\u001b]1;..ta-is-awesome\u0007"
+    ],
+    [
+      0.03605,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mmeta-is-awesome\u001b[00m \u001b[K"
+    ],
+    [
+      6.9e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      9.4e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.954988,
+      "m"
+    ],
+    [
+      0.092729,
+      "\bme"
+    ],
+    [
+      0.057159,
+      "t"
+    ],
+    [
+      0.080015,
+      "a"
+    ],
+    [
+      0.103734,
+      " "
+    ],
+    [
+      0.112105,
+      "g"
+    ],
+    [
+      0.096116,
+      "i"
+    ],
+    [
+      0.079885,
+      "t"
+    ],
+    [
+      0.103906,
+      " "
+    ],
+    [
+      0.183854,
+      "c"
+    ],
+    [
+      0.07225,
+      "l"
+    ],
+    [
+      0.223942,
+      "o"
+    ],
+    [
+      0.04004,
+      "n"
+    ],
+    [
+      0.071889,
+      "e"
+    ],
+    [
+      0.152007,
+      " "
+    ],
+    [
+      0.185277,
+      "\u001b[7mgit@github.com:mateodelnorte/nycnode.git\u001b[27m"
+    ],
+    [
+      0.710895,
+      "\u001b[40D\u001b[27mg\u001b[27mi\u001b[27mt\u001b[27m@\u001b[27mg\u001b[27mi\u001b[27mt\u001b[27mh\u001b[27mu\u001b[27mb\u001b[27m.\u001b[27mc\u001b[27mo\u001b[27mm\u001b[27m:\u001b[27mm\u001b[27ma\u001b[27mt\u001b[27me\u001b[27mo\u001b[27md\u001b[27me\u001b[27ml\u001b[27mn\u001b[27mo\u001b[27mr\u001b[27mt\u001b[27me\u001b[27m/\u001b[27mn\u001b[27my\u001b[27mc\u001b[27mn\u001b[27mo\u001b[27md\u001b[27me\u001b[27m.\u001b[27mg\u001b[27mi\u001b[27mt"
+    ],
+    [
+      4.5e-05,
+      "\u001b[?1l\u001b>\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.017034,
+      "\u001b]2;meta git clone git@github.com:mateodelnorte/nycnode.git\u0007\u001b]1;meta\u0007"
+    ],
+    [
+      0.439523,
+      "meta git cloning into 'git@github.com:mateodelnorte/nycnode.git' at nycnode\r\n"
+    ],
+    [
+      0.000992,
+      "\r\n\u001b[36mnycnode\u001b[39m:\r\n"
+    ],
+    [
+      0.021753,
+      "Cloning into 'nycnode'...\r\n"
+    ],
+    [
+      0.430712,
+      "remote: Counting objects: 134, done.\u001b[K\r\n"
+    ],
+    [
+      0.000187,
+      "remote: Total 134 (delta 0), reused 0 (delta 0), pack-reused 134\u001b[K\r\n"
+    ],
+    [
+      0.00052,
+      "Receiving objects:   0% (1/134)   \r"
+    ],
+    [
+      3.9e-05,
+      "Receiving objects:   1% (2/134)   \rReceiving objects:   2% (3/134)   \r"
+    ],
+    [
+      0.000113,
+      "Receiving objects:   3% (5/134)   \rReceiving objects:   4% (6/134)   \r"
+    ],
+    [
+      3.5e-05,
+      "Receiving objects:   5% (7/134)   \r"
+    ],
+    [
+      3.2e-05,
+      "Receiving objects:   6% (9/134)   \r"
+    ],
+    [
+      0.000124,
+      "Receiving objects:   7% (10/134)   \rReceiving objects:   8% (11/134)   \r"
+    ],
+    [
+      4.3e-05,
+      "Receiving objects:   9% (13/134)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:  10% (14/134)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  11% (15/134)   \r"
+    ],
+    [
+      0.000119,
+      "Receiving objects:  12% (17/134)   \rReceiving objects:  13% (18/134)   \r"
+    ],
+    [
+      2.8e-05,
+      "Receiving objects:  14% (19/134)   \r"
+    ],
+    [
+      3.3e-05,
+      "Receiving objects:  15% (21/134)   \rReceiving objects:  16% (22/134)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  17% (23/134)   \r"
+    ],
+    [
+      0.000178,
+      "Receiving objects:  18% (25/134)   \rReceiving objects:  19% (26/134)   \r"
+    ],
+    [
+      3e-05,
+      "Receiving objects:  20% (27/134)   \r"
+    ],
+    [
+      5.6e-05,
+      "Receiving objects:  21% (29/134)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  22% (30/134)   \r"
+    ],
+    [
+      1.6e-05,
+      "Receiving objects:  23% (31/134)   \r"
+    ],
+    [
+      1.7e-05,
+      "Receiving objects:  24% (33/134)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  25% (34/134)   \r"
+    ],
+    [
+      1.6e-05,
+      "Receiving objects:  26% (35/134)   \r"
+    ],
+    [
+      5.1e-05,
+      "Receiving objects:  27% (37/134)   \rReceiving objects:  28% (38/134)   \r"
+    ],
+    [
+      1.7e-05,
+      "Receiving objects:  29% (39/134)   \r"
+    ],
+    [
+      1.6e-05,
+      "Receiving objects:  30% (41/134)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  31% (42/134)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  32% (43/134)   \r"
+    ],
+    [
+      0.032418,
+      "Receiving objects:  33% (45/134)   \rReceiving objects:  34% (46/134)   \rReceiving objects:  35% (47/134)   \r"
+    ],
+    [
+      4.5e-05,
+      "Receiving objects:  36% (49/134)   \rReceiving objects:  37% (50/134)   \rReceiving objects:  38% (51/134)   \rReceiving objects:  39% (53/134)   \rReceiving objects:  40% (54/134)   \rReceiving objects:  41% (55/134)   \rReceiving objects:  42% (57/134)   \rReceiving objects:  43% (58/134)   \rReceiving objects:  44% (59/134)   \rReceiving objects:  45% (61/134)   \rReceiving objects:  46% (62/134)   \rReceiving objects:  47% (63/134)   \rReceiving objects:  48% (65/134)   \rReceiving objects:  49% (66/134)   \rReceiving objects:  50% (67/134)   \rReceiving objects:  51% (69/134)   \rReceiving objects:  52% (70/134)   \rReceiving objects:  53% (72/134)   \rReceiving objects:  54% (73/134)   \rReceiving objects:  55% (74/134)   \rReceiving objects:  56% (76/134)   \rReceiving objects:  57% (77/134)   \rReceiving objects:  58% (78/134)   \rReceiving objects:  59% (80/134)   \rReceiving objects:  60% (81/134)   \rReceiving objects:  61% (82/134)   \rReceiving objects:  62% (84/134)   \rReceiving objects:  63% (85/134)   \rReceiving object"
+    ],
+    [
+      7.4e-05,
+      "s:  64% (86/134)   \r"
+    ],
+    [
+      7.2e-05,
+      "Receiving objects:  65% (88/134)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  66% (89/134)   \rReceiving objects:  67% (90/134)   \r"
+    ],
+    [
+      3.4e-05,
+      "Receiving objects:  68% (92/134)   \r"
+    ],
+    [
+      0.000106,
+      "Receiving objects:  69% (93/134)   \rReceiving objects:  70% (94/134)   \rReceiving objects:  71% (96/134)   \rReceiving objects:  72% (97/134)   \r"
+    ],
+    [
+      2.7e-05,
+      "Receiving objects:  73% (98/134)   \rReceiving objects:  74% (100/134)   \rReceiving objects:  75% (101/134)   \rReceiving objects:  76% (102/134)   \rReceiving objects:  77% (104/134)   \rReceiving objects:  78% (105/134)   \rReceiving objects:  79% (106/134)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  80% (108/134)   \rReceiving objects:  81% (109/134)   \r"
+    ],
+    [
+      9e-06,
+      "Receiving objects:  82% (110/134)   \r"
+    ],
+    [
+      9e-06,
+      "Receiving objects:  83% (112/134)   \rReceiving objects:  84% (113/134)   \r"
+    ],
+    [
+      8e-06,
+      "Receiving objects:  85% (114/134)   \rReceiving objects:  86% (116/134)   \r"
+    ],
+    [
+      9e-06,
+      "Receiving objects:  87% (117/134)   \rReceiving objects:  88% (118/134)   \r"
+    ],
+    [
+      6.2e-05,
+      "Receiving objects:  89% (120/134)   \rReceiving objects:  90% (121/134)   \rReceiving objects:  91% (122/134)   \rReceiving objects:  92% (124/134)   \rReceiving objects:  93% (125/134)   \r"
+    ],
+    [
+      1.6e-05,
+      "Receiving objects:  94% (126/134)   \r"
+    ],
+    [
+      3e-05,
+      "Receiving objects:  95% (128/134)   \rReceiving objects:  96% (129/134)   \rReceiving objects:  97% (130/134)   \r"
+    ],
+    [
+      1e-05,
+      "Receiving objects:  98% (132/134)   \rReceiving objects:  99% (133/134)   \r"
+    ],
+    [
+      0.002202,
+      "Receiving objects: 100% (134/134)   \r"
+    ],
+    [
+      3.7e-05,
+      "Receiving objects: 100% (134/134), 19.60 KiB | 0 bytes/s, done.\r\nResolving deltas:   0% (0/59)   \rResolving deltas:  10% (6/59)   \rResolving deltas:  16% (10/59)   \rResolving deltas:  18% (11/59)   \rResolving deltas:  27% (16/59)   \rResolving deltas:  42% (25/59)   \rResolving deltas:  45% (27/59)   \rResolving deltas:  47% (28/59)   \rResolving deltas:  49% (29/59)   \rResolving deltas:  50% (30/59)   \rResolving deltas:  52% (31/59)   \rResolving deltas:  54% (32/59)   \rResolving deltas:  57% (34/59)   \rResolving deltas:  59% (35/59)   \rResolving deltas:  62% (37/59)   \rResolving deltas:  66% (39/59)   \rResolving deltas:  69% (41/59)   \rResolving deltas:  71% (42/59)   \rResolving deltas:  72% (43/59)   \rResolving deltas:  79% (47/59)   \rResolving deltas:  81% (48/59)   \rResolving deltas:  84% (50/59)   \rResolving deltas:  86% (51/59)   \rResolving deltas:  88% (52/59)   \rResolving deltas:  91% (54/59)   \rResolving deltas:  98% (58/59)   \rResolving deltas: 100% (59/59)   \rResolving deltas: 100% (59/59), done.\r\n"
+    ],
+    [
+      0.049516,
+      "\u001b[32mnycnode ✓\u001b[39m\r\n"
+    ],
+    [
+      0.002984,
+      "\r\n\u001b[36mnycnode-youtube-ingestor\u001b[39m:\r\n"
+    ],
+    [
+      0.008248,
+      "Cloning into 'nycnode-youtube-ingestor'...\r\n"
+    ],
+    [
+      0.386117,
+      "remote: Counting objects: 51, done.\u001b[K\r\n"
+    ],
+    [
+      4.2e-05,
+      "remote: Total 51 (delta 0), reused 0 (delta 0), pack-reused 51\u001b[K\r\n"
+    ],
+    [
+      0.004852,
+      "Receiving objects:   1% (1/51)   \rReceiving objects:   3% (2/51)   \r"
+    ],
+    [
+      2e-05,
+      "Receiving objects:   5% (3/51)   \r"
+    ],
+    [
+      1.5e-05,
+      "Receiving objects:   7% (4/51)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:   9% (5/51)   \r"
+    ],
+    [
+      9.5e-05,
+      "Receiving objects:  11% (6/51)   \rReceiving objects:  13% (7/51)   \rReceiving objects:  15% (8/51)   \rReceiving objects:  17% (9/51)   \r"
+    ],
+    [
+      2.6e-05,
+      "Receiving objects:  19% (10/51)   \rReceiving objects:  21% (11/51)   \r"
+    ],
+    [
+      4.3e-05,
+      "Receiving objects:  23% (12/51)   \rReceiving objects:  25% (13/51)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:  27% (14/51)   \rReceiving objects:  29% (15/51)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:  31% (16/51)   \r"
+    ],
+    [
+      7.6e-05,
+      "Receiving objects:  33% (17/51)   \rReceiving objects:  35% (18/51)   \r"
+    ],
+    [
+      0.000101,
+      "Receiving objects:  37% (19/51)   \rReceiving objects:  39% (20/51)   \rReceiving objects:  41% (21/51)   \rReceiving objects:  43% (22/51)   \r"
+    ],
+    [
+      2.8e-05,
+      "Receiving objects:  45% (23/51)   \rReceiving objects:  47% (24/51)   \rReceiving objects:  49% (25/51)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  50% (26/51)   \r"
+    ],
+    [
+      5.1e-05,
+      "Receiving objects:  52% (27/51)   \r"
+    ],
+    [
+      2.6e-05,
+      "Receiving objects:  54% (28/51)   \rReceiving objects:  56% (29/51)   \rReceiving objects:  58% (30/51)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:  60% (31/51)   \r"
+    ],
+    [
+      8.1e-05,
+      "Receiving objects:  62% (32/51)   \rReceiving objects:  64% (33/51)   \rReceiving objects:  66% (34/51)   \rReceiving objects:  68% (35/51)   \r"
+    ],
+    [
+      1.7e-05,
+      "Receiving objects:  70% (36/51)   \r"
+    ],
+    [
+      1.5e-05,
+      "Receiving objects:  72% (37/51)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  74% (38/51)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  76% (39/51)   \r"
+    ],
+    [
+      9.6e-05,
+      "Receiving objects:  78% (40/51)   \rReceiving objects:  80% (41/51)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:  82% (42/51)   \rReceiving objects:  84% (43/51)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  86% (44/51)   \rReceiving objects:  88% (45/51)   \r"
+    ],
+    [
+      1.7e-05,
+      "Receiving objects:  90% (46/51)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:  92% (47/51)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:  94% (48/51)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:  96% (49/51)   \r"
+    ],
+    [
+      1.5e-05,
+      "Receiving objects:  98% (50/51)   \rReceiving objects: 100% (51/51)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects: 100% (51/51), 9.40 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000243,
+      "Resolving deltas:   0% (0/13)   \r"
+    ],
+    [
+      0.000244,
+      "Resolving deltas:   7% (1/13)   \r"
+    ],
+    [
+      2.4e-05,
+      "Resolving deltas:  23% (3/13)   \r"
+    ],
+    [
+      2.6e-05,
+      "Resolving deltas:  30% (4/13)   \r"
+    ],
+    [
+      6.8e-05,
+      "Resolving deltas:  38% (5/13)   \r"
+    ],
+    [
+      0.000103,
+      "Resolving deltas:  46% (6/13)   \rResolving deltas:  53% (7/13)   \r"
+    ],
+    [
+      2.6e-05,
+      "Resolving deltas:  61% (8/13)   \r"
+    ],
+    [
+      6.3e-05,
+      "Resolving deltas:  69% (9/13)   \r"
+    ],
+    [
+      2e-05,
+      "Resolving deltas:  76% (10/13)   \r"
+    ],
+    [
+      0.000105,
+      "Resolving deltas:  84% (11/13)   \rResolving deltas:  92% (12/13)   \r"
+    ],
+    [
+      2.4e-05,
+      "Resolving deltas: 100% (13/13)   \r"
+    ],
+    [
+      9.4e-05,
+      "Resolving deltas: 100% (13/13), done.\r\n"
+    ],
+    [
+      0.129107,
+      "\u001b[32mnycnode-youtube-ingestor ✓\u001b[39m\r\n"
+    ],
+    [
+      0.000157,
+      "\r\n\u001b[36mnycnode-user-ingestor\u001b[39m:\r\n"
+    ],
+    [
+      0.010028,
+      "Cloning into 'nycnode-user-ingestor'...\r\n"
+    ],
+    [
+      0.386011,
+      "remote: Counting objects: 70, done.\u001b[K\r\n"
+    ],
+    [
+      0.004847,
+      "Receiving objects:   1% (1/70)   \rReceiving objects:   2% (2/70)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:   4% (3/70)   \rReceiving objects:   5% (4/70)   \r"
+    ],
+    [
+      4e-05,
+      "Receiving objects:   7% (5/70)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:   8% (6/70)   \rReceiving objects:  10% (7/70)   \r"
+    ],
+    [
+      4.2e-05,
+      "Receiving objects:  11% (8/70)   \r"
+    ],
+    [
+      2.5e-05,
+      "Receiving objects:  12% (9/70)   \rReceiving objects:  14% (10/70)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:  15% (11/70)   \r"
+    ],
+    [
+      7.4e-05,
+      "Receiving objects:  17% (12/70)   \rReceiving objects:  18% (13/70)   \rReceiving objects:  20% (14/70)   \r"
+    ],
+    [
+      2e-05,
+      "Receiving objects:  21% (15/70)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  22% (16/70)   \r"
+    ],
+    [
+      7.8e-05,
+      "Receiving objects:  24% (17/70)   \rReceiving objects:  25% (18/70)   \r"
+    ],
+    [
+      0.000116,
+      "Receiving objects:  27% (19/70)   \rReceiving objects:  28% (20/70)   \r"
+    ],
+    [
+      1.6e-05,
+      "Receiving objects:  30% (21/70)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  31% (22/70)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  32% (23/70)   \r"
+    ],
+    [
+      3.2e-05,
+      "Receiving objects:  34% (24/70)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  35% (25/70)   \r"
+    ],
+    [
+      2.4e-05,
+      "Receiving objects:  37% (26/70)   \rReceiving objects:  38% (27/70)   \r"
+    ],
+    [
+      3.6e-05,
+      "Receiving objects:  40% (28/70)   \rReceiving objects:  41% (29/70)   \r"
+    ],
+    [
+      1.7e-05,
+      "Receiving objects:  42% (30/70)   \rReceiving objects:  44% (31/70)   \r"
+    ],
+    [
+      7.1e-05,
+      "Receiving objects:  45% (32/70)   \rReceiving objects:  47% (33/70)   \rReceiving objects:  48% (34/70)   \r"
+    ],
+    [
+      1.5e-05,
+      "Receiving objects:  50% (35/70)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  51% (36/70)   \r"
+    ],
+    [
+      7.9e-05,
+      "Receiving objects:  52% (37/70)   \rReceiving objects:  54% (38/70)   \r"
+    ],
+    [
+      0.013274,
+      "remote: Total 70 (delta 0), reused 0 (delta 0), pack-reused 70\u001b[K\r\n"
+    ],
+    [
+      0.000138,
+      "Receiving objects:  55% (39/70)   \r"
+    ],
+    [
+      9e-05,
+      "Receiving objects:  57% (40/70)   \rReceiving objects:  58% (41/70)   \r"
+    ],
+    [
+      3e-05,
+      "Receiving objects:  60% (42/70)   \rReceiving objects:  61% (43/70)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  62% (44/70)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  64% (45/70)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  65% (46/70)   \r"
+    ],
+    [
+      8.2e-05,
+      "Receiving objects:  67% (47/70)   \rReceiving objects:  68% (48/70)   \rReceiving objects:  70% (49/70)   \rReceiving objects:  71% (50/70)   \rReceiving objects:  72% (51/70)   \rReceiving objects:  74% (52/70)   \rReceiving objects:  75% (53/70)   \r"
+    ],
+    [
+      1.6e-05,
+      "Receiving objects:  77% (54/70)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  78% (55/70)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  80% (56/70)   \r"
+    ],
+    [
+      4e-05,
+      "Receiving objects:  81% (57/70)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  82% (58/70)   \rReceiving objects:  84% (59/70)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  85% (60/70)   \r"
+    ],
+    [
+      2.6e-05,
+      "Receiving objects:  87% (61/70)   \r"
+    ],
+    [
+      1.5e-05,
+      "Receiving objects:  88% (62/70)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  90% (63/70)   \rReceiving objects:  91% (64/70)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  92% (65/70)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  94% (66/70)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  95% (67/70)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  97% (68/70)   \rReceiving objects:  98% (69/70)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects: 100% (70/70)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects: 100% (70/70), 15.11 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000289,
+      "Resolving deltas:   0% (0/23)   \r"
+    ],
+    [
+      0.000345,
+      "Resolving deltas:  13% (3/23)   \r"
+    ],
+    [
+      1.9e-05,
+      "Resolving deltas:  17% (4/23)   \r"
+    ],
+    [
+      6.4e-05,
+      "Resolving deltas:  21% (5/23)   \r"
+    ],
+    [
+      2.8e-05,
+      "Resolving deltas:  26% (6/23)   \r"
+    ],
+    [
+      0.00014,
+      "Resolving deltas:  34% (8/23)   \r"
+    ],
+    [
+      2e-05,
+      "Resolving deltas:  47% (11/23)   \r"
+    ],
+    [
+      2e-05,
+      "Resolving deltas:  52% (12/23)   \r"
+    ],
+    [
+      1.8e-05,
+      "Resolving deltas:  56% (13/23)   \r"
+    ],
+    [
+      7.3e-05,
+      "Resolving deltas:  60% (14/23)   \r"
+    ],
+    [
+      2.1e-05,
+      "Resolving deltas:  65% (15/23)   \r"
+    ],
+    [
+      7.8e-05,
+      "Resolving deltas:  73% (17/23)   \r"
+    ],
+    [
+      6.1e-05,
+      "Resolving deltas:  82% (19/23)   \rResolving deltas:  86% (20/23)   \r"
+    ],
+    [
+      0.000144,
+      "Resolving deltas:  91% (21/23)   \r"
+    ],
+    [
+      9.8e-05,
+      "Resolving deltas: 100% (23/23)   \r"
+    ],
+    [
+      5.3e-05,
+      "Resolving deltas: 100% (23/23), done.\r\n"
+    ],
+    [
+      0.05522,
+      "\u001b[32mnycnode-user-ingestor ✓\u001b[39m\r\n"
+    ],
+    [
+      3.1e-05,
+      "\r\n\u001b[36mnycnode-site\u001b[39m:\r\n"
+    ],
+    [
+      0.007795,
+      "Cloning into 'nycnode-site'...\r\n"
+    ],
+    [
+      0.402259,
+      "remote: Counting objects: 6013, done.\u001b[K\r\n"
+    ],
+    [
+      0.013754,
+      "Receiving objects:   0% (1/6013)   \r"
+    ],
+    [
+      0.001455,
+      "Receiving objects:   1% (61/6013)   \r"
+    ],
+    [
+      0.022741,
+      "Receiving objects:   2% (121/6013)   \r"
+    ],
+    [
+      0.001375,
+      "Receiving objects:   3% (181/6013)   \r"
+    ],
+    [
+      0.000689,
+      "Receiving objects:   4% (241/6013)   \r"
+    ],
+    [
+      0.000734,
+      "Receiving objects:   5% (301/6013)   \r"
+    ],
+    [
+      0.000648,
+      "Receiving objects:   6% (361/6013)   \r"
+    ],
+    [
+      0.000583,
+      "Receiving objects:   7% (421/6013)   \r"
+    ],
+    [
+      0.021874,
+      "Receiving objects:   8% (482/6013)   \r"
+    ],
+    [
+      0.001272,
+      "Receiving objects:   9% (542/6013)   \r"
+    ],
+    [
+      0.000895,
+      "Receiving objects:  10% (602/6013)   \r"
+    ],
+    [
+      0.0292,
+      "Receiving objects:  11% (662/6013)   \r"
+    ],
+    [
+      0.037967,
+      "Receiving objects:  12% (722/6013)   \r"
+    ],
+    [
+      0.001205,
+      "Receiving objects:  13% (782/6013)   \r"
+    ],
+    [
+      0.022196,
+      "Receiving objects:  14% (842/6013)   \r"
+    ],
+    [
+      0.011757,
+      "Receiving objects:  15% (902/6013)   \r"
+    ],
+    [
+      0.00155,
+      "Receiving objects:  16% (963/6013)   \r"
+    ],
+    [
+      0.00366,
+      "Receiving objects:  17% (1023/6013)   \r"
+    ],
+    [
+      0.000805,
+      "Receiving objects:  18% (1083/6013)   \r"
+    ],
+    [
+      0.188492,
+      "Receiving objects:  19% (1143/6013)   \r"
+    ],
+    [
+      0.077105,
+      "Receiving objects:  20% (1203/6013)   \r"
+    ],
+    [
+      0.00108,
+      "Receiving objects:  21% (1263/6013)   \r"
+    ],
+    [
+      0.004615,
+      "Receiving objects:  22% (1323/6013)   \r"
+    ],
+    [
+      0.000521,
+      "Receiving objects:  23% (1383/6013)   \r"
+    ],
+    [
+      0.121451,
+      "Receiving objects:  24% (1444/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.007243,
+      "Receiving objects:  25% (1504/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.001331,
+      "Receiving objects:  26% (1564/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000414,
+      "Receiving objects:  27% (1624/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.00321,
+      "Receiving objects:  28% (1684/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.00027,
+      "Receiving objects:  29% (1744/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000293,
+      "Receiving objects:  30% (1804/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000261,
+      "Receiving objects:  31% (1865/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000728,
+      "Receiving objects:  32% (1925/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000268,
+      "Receiving objects:  33% (1985/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000304,
+      "Receiving objects:  34% (2045/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000263,
+      "Receiving objects:  35% (2105/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000215,
+      "Receiving objects:  36% (2165/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000367,
+      "Receiving objects:  37% (2225/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.013148,
+      "Receiving objects:  38% (2285/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.001036,
+      "Receiving objects:  39% (2346/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000334,
+      "Receiving objects:  40% (2406/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000329,
+      "Receiving objects:  41% (2466/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000431,
+      "Receiving objects:  42% (2526/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000509,
+      "Receiving objects:  43% (2586/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000306,
+      "Receiving objects:  44% (2646/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000959,
+      "Receiving objects:  45% (2706/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000296,
+      "Receiving objects:  46% (2766/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.001443,
+      "Receiving objects:  47% (2827/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000234,
+      "Receiving objects:  48% (2887/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.001154,
+      "Receiving objects:  49% (2947/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000471,
+      "Receiving objects:  50% (3007/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000298,
+      "Receiving objects:  51% (3067/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000213,
+      "Receiving objects:  52% (3127/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.005285,
+      "Receiving objects:  53% (3187/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000208,
+      "Receiving objects:  54% (3248/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000105,
+      "Receiving objects:  55% (3308/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000137,
+      "Receiving objects:  56% (3368/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000144,
+      "Receiving objects:  57% (3428/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000877,
+      "Receiving objects:  58% (3488/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000144,
+      "Receiving objects:  59% (3548/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000177,
+      "Receiving objects:  60% (3608/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000215,
+      "Receiving objects:  61% (3668/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.007973,
+      "Receiving objects:  62% (3729/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.082012,
+      "Receiving objects:  63% (3789/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.0102,
+      "Receiving objects:  64% (3849/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000363,
+      "Receiving objects:  65% (3909/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000412,
+      "Receiving objects:  66% (3969/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000656,
+      "Receiving objects:  67% (4029/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000384,
+      "Receiving objects:  68% (4089/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000576,
+      "Receiving objects:  69% (4149/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000647,
+      "Receiving objects:  70% (4210/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000406,
+      "Receiving objects:  71% (4270/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000322,
+      "Receiving objects:  72% (4330/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.00028,
+      "Receiving objects:  73% (4390/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000345,
+      "Receiving objects:  74% (4450/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000284,
+      "Receiving objects:  75% (4510/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000267,
+      "Receiving objects:  76% (4570/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000365,
+      "Receiving objects:  77% (4631/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000286,
+      "Receiving objects:  78% (4691/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000229,
+      "Receiving objects:  79% (4751/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000282,
+      "Receiving objects:  80% (4811/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000291,
+      "Receiving objects:  81% (4871/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.007045,
+      "Receiving objects:  82% (4931/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000447,
+      "Receiving objects:  83% (4991/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000414,
+      "Receiving objects:  84% (5051/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000425,
+      "Receiving objects:  85% (5112/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000632,
+      "Receiving objects:  86% (5172/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000718,
+      "Receiving objects:  87% (5232/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000851,
+      "Receiving objects:  88% (5292/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000446,
+      "Receiving objects:  89% (5352/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000653,
+      "Receiving objects:  90% (5412/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.000592,
+      "Receiving objects:  91% (5472/6013), 4.39 MiB | 8.67 MiB/s   \r"
+    ],
+    [
+      0.290143,
+      "Receiving objects:  91% (5496/6013), 10.89 MiB | 10.83 MiB/s   \r"
+    ],
+    [
+      0.173985,
+      "Receiving objects:  92% (5532/6013), 10.89 MiB | 10.83 MiB/s   \r"
+    ],
+    [
+      0.000549,
+      "Receiving objects:  93% (5593/6013), 10.89 MiB | 10.83 MiB/s   \r"
+    ],
+    [
+      0.000667,
+      "Receiving objects:  94% (5653/6013), 10.89 MiB | 10.83 MiB/s   \r"
+    ],
+    [
+      0.00482,
+      "Receiving objects:  95% (5713/6013), 10.89 MiB | 10.83 MiB/s   \r"
+    ],
+    [
+      0.00046,
+      "Receiving objects:  96% (5773/6013), 10.89 MiB | 10.83 MiB/s   \r"
+    ],
+    [
+      0.000413,
+      "remote: Total 6013 (delta 0), reused 0 (delta 0), pack-reused 6013\u001b[K\r\n"
+    ],
+    [
+      0.000165,
+      "Receiving objects:  97% (5833/6013), 10.89 MiB | 10.83 MiB/s   \r"
+    ],
+    [
+      0.000558,
+      "Receiving objects:  98% (5893/6013), 10.89 MiB | 10.83 MiB/s   \r"
+    ],
+    [
+      0.000211,
+      "Receiving objects:  99% (5953/6013), 10.89 MiB | 10.83 MiB/s   \r"
+    ],
+    [
+      0.000276,
+      "Receiving objects: 100% (6013/6013), 10.89 MiB | 10.83 MiB/s   \rReceiving objects: 100% (6013/6013), 13.67 MiB | 10.83 MiB/s, done.\r\n"
+    ],
+    [
+      0.000579,
+      "Resolving deltas:   0% (0/3712)   \r"
+    ],
+    [
+      0.003365,
+      "Resolving deltas:   1% (38/3712)   \r"
+    ],
+    [
+      0.000626,
+      "Resolving deltas:   2% (75/3712)   \r"
+    ],
+    [
+      0.000571,
+      "Resolving deltas:   3% (112/3712)   \r"
+    ],
+    [
+      0.000358,
+      "Resolving deltas:   4% (149/3712)   \r"
+    ],
+    [
+      0.000349,
+      "Resolving deltas:   5% (190/3712)   \r"
+    ],
+    [
+      0.000382,
+      "Resolving deltas:   6% (227/3712)   \r"
+    ],
+    [
+      0.000292,
+      "Resolving deltas:   7% (260/3712)   \r"
+    ],
+    [
+      0.00032,
+      "Resolving deltas:   8% (297/3712)   \r"
+    ],
+    [
+      0.000356,
+      "Resolving deltas:   9% (335/3712)   \r"
+    ],
+    [
+      0.000332,
+      "Resolving deltas:  10% (379/3712)   \r"
+    ],
+    [
+      0.00023,
+      "Resolving deltas:  11% (409/3712)   \r"
+    ],
+    [
+      0.000645,
+      "Resolving deltas:  13% (491/3712)   \r"
+    ],
+    [
+      0.000335,
+      "Resolving deltas:  14% (531/3712)   \r"
+    ],
+    [
+      0.000392,
+      "Resolving deltas:  15% (576/3712)   \r"
+    ],
+    [
+      0.000165,
+      "Resolving deltas:  16% (598/3712)   \r"
+    ],
+    [
+      0.000367,
+      "Resolving deltas:  17% (655/3712)   \r"
+    ],
+    [
+      0.000122,
+      "Resolving deltas:  18% (669/3712)   \r"
+    ],
+    [
+      0.000341,
+      "Resolving deltas:  19% (710/3712)   \r"
+    ],
+    [
+      0.000378,
+      "Resolving deltas:  20% (760/3712)   \r"
+    ],
+    [
+      0.000221,
+      "Resolving deltas:  21% (789/3712)   \r"
+    ],
+    [
+      0.000437,
+      "Resolving deltas:  22% (844/3712)   \r"
+    ],
+    [
+      7.4e-05,
+      "Resolving deltas:  23% (854/3712)   \r"
+    ],
+    [
+      0.000394,
+      "Resolving deltas:  24% (914/3712)   \r"
+    ],
+    [
+      0.000348,
+      "Resolving deltas:  25% (957/3712)   \r"
+    ],
+    [
+      0.000472,
+      "Resolving deltas:  27% (1006/3712)   \r"
+    ],
+    [
+      0.000351,
+      "Resolving deltas:  28% (1043/3712)   \r"
+    ],
+    [
+      0.000369,
+      "Resolving deltas:  29% (1087/3712)   \r"
+    ],
+    [
+      0.000235,
+      "Resolving deltas:  30% (1118/3712)   \r"
+    ],
+    [
+      0.000348,
+      "Resolving deltas:  31% (1165/3712)   \r"
+    ],
+    [
+      0.000201,
+      "Resolving deltas:  32% (1188/3712)   \r"
+    ],
+    [
+      0.000475,
+      "Resolving deltas:  33% (1239/3712)   \r"
+    ],
+    [
+      0.000272,
+      "Resolving deltas:  34% (1274/3712)   \r"
+    ],
+    [
+      0.000294,
+      "Resolving deltas:  35% (1304/3712)   \r"
+    ],
+    [
+      0.000353,
+      "Resolving deltas:  36% (1347/3712)   \r"
+    ],
+    [
+      0.000263,
+      "Resolving deltas:  37% (1378/3712)   \r"
+    ],
+    [
+      0.000255,
+      "Resolving deltas:  38% (1411/3712)   \r"
+    ],
+    [
+      0.000326,
+      "Resolving deltas:  39% (1448/3712)   \r"
+    ],
+    [
+      0.000309,
+      "Resolving deltas:  40% (1495/3712)   \r"
+    ],
+    [
+      0.00028,
+      "Resolving deltas:  41% (1531/3712)   \r"
+    ],
+    [
+      0.000521,
+      "Resolving deltas:  43% (1605/3712)   \r"
+    ],
+    [
+      0.000456,
+      "Resolving deltas:  44% (1667/3712)   \r"
+    ],
+    [
+      7.7e-05,
+      "Resolving deltas:  45% (1673/3712)   \r"
+    ],
+    [
+      0.000325,
+      "Resolving deltas:  46% (1710/3712)   \r"
+    ],
+    [
+      0.000736,
+      "Resolving deltas:  48% (1803/3712)   \r"
+    ],
+    [
+      0.000225,
+      "Resolving deltas:  49% (1819/3712)   \r"
+    ],
+    [
+      0.000276,
+      "Resolving deltas:  50% (1856/3712)   \r"
+    ],
+    [
+      0.000652,
+      "Resolving deltas:  52% (1952/3712)   \r"
+    ],
+    [
+      0.000166,
+      "Resolving deltas:  53% (1971/3712)   \r"
+    ],
+    [
+      0.000319,
+      "Resolving deltas:  54% (2010/3712)   \r"
+    ],
+    [
+      0.000322,
+      "Resolving deltas:  55% (2042/3712)   \r"
+    ],
+    [
+      0.000281,
+      "Resolving deltas:  56% (2084/3712)   \r"
+    ],
+    [
+      0.000291,
+      "Resolving deltas:  57% (2124/3712)   \r"
+    ],
+    [
+      0.000212,
+      "Resolving deltas:  58% (2153/3712)   \r"
+    ],
+    [
+      0.000288,
+      "Resolving deltas:  59% (2193/3712)   \r"
+    ],
+    [
+      0.000291,
+      "Resolving deltas:  60% (2228/3712)   \r"
+    ],
+    [
+      0.000388,
+      "Resolving deltas:  61% (2291/3712)   \r"
+    ],
+    [
+      0.000111,
+      "Resolving deltas:  62% (2303/3712)   \r"
+    ],
+    [
+      0.000508,
+      "Resolving deltas:  63% (2360/3712)   \r"
+    ],
+    [
+      0.000382,
+      "Resolving deltas:  65% (2415/3712)   \r"
+    ],
+    [
+      0.000318,
+      "Resolving deltas:  66% (2464/3712)   \r"
+    ],
+    [
+      0.000287,
+      "Resolving deltas:  67% (2501/3712)   \r"
+    ],
+    [
+      0.000294,
+      "Resolving deltas:  68% (2526/3712)   \r"
+    ],
+    [
+      0.00046,
+      "Resolving deltas:  69% (2572/3712)   \r"
+    ],
+    [
+      0.000348,
+      "Resolving deltas:  70% (2602/3712)   \r"
+    ],
+    [
+      0.000404,
+      "Resolving deltas:  71% (2639/3712)   \r"
+    ],
+    [
+      0.000296,
+      "Resolving deltas:  72% (2673/3712)   \r"
+    ],
+    [
+      0.000326,
+      "Resolving deltas:  73% (2710/3712)   \r"
+    ],
+    [
+      0.000392,
+      "Resolving deltas:  74% (2748/3712)   \r"
+    ],
+    [
+      0.000383,
+      "Resolving deltas:  75% (2793/3712)   \r"
+    ],
+    [
+      0.000467,
+      "Resolving deltas:  76% (2827/3712)   \r"
+    ],
+    [
+      0.000418,
+      "Resolving deltas:  77% (2862/3712)   \r"
+    ],
+    [
+      0.000577,
+      "Resolving deltas:  78% (2905/3712)   \r"
+    ],
+    [
+      0.000296,
+      "Resolving deltas:  79% (2933/3712)   \r"
+    ],
+    [
+      0.000513,
+      "Resolving deltas:  80% (2973/3712)   \r"
+    ],
+    [
+      0.000458,
+      "Resolving deltas:  81% (3009/3712)   \r"
+    ],
+    [
+      0.000491,
+      "Resolving deltas:  82% (3046/3712)   \r"
+    ],
+    [
+      0.000424,
+      "Resolving deltas:  83% (3082/3712)   \r"
+    ],
+    [
+      0.000545,
+      "Resolving deltas:  84% (3128/3712)   \r"
+    ],
+    [
+      0.000977,
+      "Resolving deltas:  85% (3180/3712)   \r"
+    ],
+    [
+      0.000529,
+      "Resolving deltas:  86% (3228/3712)   \r"
+    ],
+    [
+      7.8e-05,
+      "Resolving deltas:  87% (3237/3712)   \r"
+    ],
+    [
+      0.000312,
+      "Resolving deltas:  88% (3268/3712)   \r"
+    ],
+    [
+      0.000389,
+      "Resolving deltas:  89% (3308/3712)   \r"
+    ],
+    [
+      0.000276,
+      "Resolving deltas:  90% (3341/3712)   \r"
+    ],
+    [
+      0.000386,
+      "Resolving deltas:  91% (3378/3712)   \r"
+    ],
+    [
+      0.000368,
+      "Resolving deltas:  92% (3416/3712)   \r"
+    ],
+    [
+      0.000328,
+      "Resolving deltas:  93% (3453/3712)   \r"
+    ],
+    [
+      0.00074,
+      "Resolving deltas:  94% (3514/3712)   \r"
+    ],
+    [
+      0.000223,
+      "Resolving deltas:  95% (3533/3712)   \r"
+    ],
+    [
+      0.000373,
+      "Resolving deltas:  96% (3567/3712)   \r"
+    ],
+    [
+      0.000426,
+      "Resolving deltas:  97% (3605/3712)   \r"
+    ],
+    [
+      0.000569,
+      "Resolving deltas:  98% (3666/3712)   \r"
+    ],
+    [
+      9.7e-05,
+      "Resolving deltas:  99% (3677/3712)   \r"
+    ],
+    [
+      0.000306,
+      "Resolving deltas: 100% (3712/3712)   \r"
+    ],
+    [
+      8.5e-05,
+      "Resolving deltas: 100% (3712/3712), done.\r\n"
+    ],
+    [
+      0.390145,
+      "\u001b[32mnycnode-site ✓\u001b[39m\r\n"
+    ],
+    [
+      2.2e-05,
+      "\r\n\u001b[36mnycnode-meetup-ingestor\u001b[39m:\r\n"
+    ],
+    [
+      0.007987,
+      "Cloning into 'nycnode-meetup-ingestor'...\r\n"
+    ],
+    [
+      0.453387,
+      "remote: Counting objects: 112, done.\u001b[K\r\n"
+    ],
+    [
+      0.000158,
+      "remote: Total 112 (delta 0), reused 0 (delta 0), pack-reused 112\u001b[K\r\n"
+    ],
+    [
+      0.004118,
+      "Receiving objects:   0% (1/112)   \rReceiving objects:   1% (2/112)   \r"
+    ],
+    [
+      3.3e-05,
+      "Receiving objects:   2% (3/112)   \rReceiving objects:   3% (4/112)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:   4% (5/112)   \r"
+    ],
+    [
+      6.7e-05,
+      "Receiving objects:   5% (6/112)   \r"
+    ],
+    [
+      3.1e-05,
+      "Receiving objects:   6% (7/112)   \r"
+    ],
+    [
+      2.2e-05,
+      "Receiving objects:   7% (8/112)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:   8% (9/112)   \r"
+    ],
+    [
+      7.7e-05,
+      "Receiving objects:   9% (11/112)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  10% (12/112)   \rReceiving objects:  11% (13/112)   \r"
+    ],
+    [
+      5.9e-05,
+      "Receiving objects:  12% (14/112)   \rReceiving objects:  13% (15/112)   \r"
+    ],
+    [
+      2.4e-05,
+      "Receiving objects:  14% (16/112)   \r"
+    ],
+    [
+      4.1e-05,
+      "Receiving objects:  15% (17/112)   \r"
+    ],
+    [
+      6.8e-05,
+      "Receiving objects:  16% (18/112)   \r"
+    ],
+    [
+      0.000121,
+      "Receiving objects:  17% (20/112)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:  18% (21/112)   \r"
+    ],
+    [
+      9e-05,
+      "Receiving objects:  19% (22/112)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  20% (23/112)   \r"
+    ],
+    [
+      7.1e-05,
+      "Receiving objects:  21% (24/112)   \r"
+    ],
+    [
+      2.9e-05,
+      "Receiving objects:  22% (25/112)   \r"
+    ],
+    [
+      2.2e-05,
+      "Receiving objects:  23% (26/112)   \r"
+    ],
+    [
+      5.4e-05,
+      "Receiving objects:  24% (27/112)   \r"
+    ],
+    [
+      6.8e-05,
+      "Receiving objects:  25% (28/112)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  26% (30/112)   \rReceiving objects:  27% (31/112)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  28% (32/112)   \rReceiving objects:  29% (33/112)   \r"
+    ],
+    [
+      5.1e-05,
+      "Receiving objects:  30% (34/112)   \r"
+    ],
+    [
+      4.8e-05,
+      "Receiving objects:  31% (35/112)   \rReceiving objects:  32% (36/112)   \rReceiving objects:  33% (37/112)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:  34% (39/112)   \r"
+    ],
+    [
+      5.6e-05,
+      "Receiving objects:  35% (40/112)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:  36% (41/112)   \rReceiving objects:  37% (42/112)   \r"
+    ],
+    [
+      6.7e-05,
+      "Receiving objects:  38% (43/112)   \r"
+    ],
+    [
+      1.5e-05,
+      "Receiving objects:  39% (44/112)   \rReceiving objects:  40% (45/112)   \r"
+    ],
+    [
+      8.4e-05,
+      "Receiving objects:  41% (46/112)   \r"
+    ],
+    [
+      2.5e-05,
+      "Receiving objects:  42% (48/112)   \rReceiving objects:  43% (49/112)   \r"
+    ],
+    [
+      3.9e-05,
+      "Receiving objects:  44% (50/112)   \rReceiving objects:  45% (51/112)   \r"
+    ],
+    [
+      0.000219,
+      "Receiving objects:  46% (52/112)   \rReceiving objects:  47% (53/112)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  48% (54/112)   \rReceiving objects:  49% (55/112)   \rReceiving objects:  50% (56/112)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:  51% (58/112)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  52% (59/112)   \r"
+    ],
+    [
+      4e-05,
+      "Receiving objects:  53% (60/112)   \rReceiving objects:  54% (61/112)   \rReceiving objects:  55% (62/112)   \r"
+    ],
+    [
+      2e-05,
+      "Receiving objects:  56% (63/112)   \rReceiving objects:  57% (64/112)   \rReceiving objects:  58% (65/112)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  59% (67/112)   \rReceiving objects:  60% (68/112)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  61% (69/112)   \rReceiving objects:  62% (70/112)   \r"
+    ],
+    [
+      1e-05,
+      "Receiving objects:  63% (71/112)   \rReceiving objects:  64% (72/112)   \r"
+    ],
+    [
+      9e-06,
+      "Receiving objects:  65% (73/112)   \rReceiving objects:  66% (74/112)   \r"
+    ],
+    [
+      5.6e-05,
+      "Receiving objects:  67% (76/112)   \rReceiving objects:  68% (77/112)   \rReceiving objects:  69% (78/112)   \r"
+    ],
+    [
+      2.6e-05,
+      "Receiving objects:  70% (79/112)   \rReceiving objects:  71% (80/112)   \rReceiving objects:  72% (81/112)   \rReceiving objects:  73% (82/112)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:  74% (83/112)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  75% (84/112)   \r"
+    ],
+    [
+      5.8e-05,
+      "Receiving objects:  76% (86/112)   \rReceiving objects:  77% (87/112)   \rReceiving objects:  78% (88/112)   \rReceiving objects:  79% (89/112)   \r"
+    ],
+    [
+      1.7e-05,
+      "Receiving objects:  80% (90/112)   \rReceiving objects:  81% (91/112)   \r"
+    ],
+    [
+      8.3e-05,
+      "Receiving objects:  82% (92/112)   \r"
+    ],
+    [
+      3.5e-05,
+      "Receiving objects:  83% (93/112)   \rReceiving objects:  84% (95/112)   \r"
+    ],
+    [
+      8.2e-05,
+      "Receiving objects:  85% (96/112)   \rReceiving objects:  86% (97/112)   \r"
+    ],
+    [
+      1.6e-05,
+      "Receiving objects:  87% (98/112)   \rReceiving objects:  88% (99/112)   \rReceiving objects:  89% (100/112)   \r"
+    ],
+    [
+      1.8e-05,
+      "Receiving objects:  90% (101/112)   \rReceiving objects:  91% (102/112)   \r"
+    ],
+    [
+      2.2e-05,
+      "Receiving objects:  92% (104/112)   \r"
+    ],
+    [
+      3.9e-05,
+      "Receiving objects:  93% (105/112)   \r"
+    ],
+    [
+      1.5e-05,
+      "Receiving objects:  94% (106/112)   \rReceiving objects:  95% (107/112)   \r"
+    ],
+    [
+      1e-05,
+      "Receiving objects:  96% (108/112)   \r"
+    ],
+    [
+      4e-05,
+      "Receiving objects:  97% (109/112)   \r"
+    ],
+    [
+      3.5e-05,
+      "Receiving objects:  98% (110/112)   \r"
+    ],
+    [
+      2.1e-05,
+      "Receiving objects:  99% (111/112)   \r"
+    ],
+    [
+      1.7e-05,
+      "Receiving objects: 100% (112/112)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects: 100% (112/112), 18.63 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000277,
+      "Resolving deltas:   0% (0/55)   \r"
+    ],
+    [
+      0.000278,
+      "Resolving deltas:   7% (4/55)   \r"
+    ],
+    [
+      2e-05,
+      "Resolving deltas:  10% (6/55)   \r"
+    ],
+    [
+      0.000114,
+      "Resolving deltas:  16% (9/55)   \r"
+    ],
+    [
+      1.7e-05,
+      "Resolving deltas:  20% (11/55)   \r"
+    ],
+    [
+      0.000102,
+      "Resolving deltas:  25% (14/55)   \r"
+    ],
+    [
+      0.000103,
+      "Resolving deltas:  32% (18/55)   \r"
+    ],
+    [
+      0.000192,
+      "Resolving deltas:  52% (29/55)   \r"
+    ],
+    [
+      1.6e-05,
+      "Resolving deltas:  54% (30/55)   \r"
+    ],
+    [
+      0.000118,
+      "Resolving deltas:  60% (33/55)   \r"
+    ],
+    [
+      2.4e-05,
+      "Resolving deltas:  63% (35/55)   \r"
+    ],
+    [
+      9.2e-05,
+      "Resolving deltas:  67% (37/55)   \r"
+    ],
+    [
+      2.4e-05,
+      "Resolving deltas:  69% (38/55)   \rResolving deltas:  70% (39/55)   \r"
+    ],
+    [
+      4.3e-05,
+      "Resolving deltas:  72% (40/55)   \r"
+    ],
+    [
+      0.000107,
+      "Resolving deltas:  80% (44/55)   \r"
+    ],
+    [
+      3.7e-05,
+      "Resolving deltas:  83% (46/55)   \r"
+    ],
+    [
+      1.9e-05,
+      "Resolving deltas:  87% (48/55)   \r"
+    ],
+    [
+      0.000111,
+      "Resolving deltas:  92% (51/55)   \r"
+    ],
+    [
+      1.4e-05,
+      "Resolving deltas:  94% (52/55)   \r"
+    ],
+    [
+      6e-05,
+      "Resolving deltas:  98% (54/55)   \r"
+    ],
+    [
+      2.2e-05,
+      "Resolving deltas: 100% (55/55)   \r"
+    ],
+    [
+      0.000111,
+      "Resolving deltas: 100% (55/55), done.\r\n"
+    ],
+    [
+      0.099771,
+      "\u001b[32mnycnode-meetup-ingestor ✓\u001b[39m\r\n"
+    ],
+    [
+      1.9e-05,
+      "\r\n\u001b[36mnycnode-denormalizer\u001b[39m:\r\n"
+    ],
+    [
+      0.007997,
+      "Cloning into 'nycnode-denormalizer'...\r\n"
+    ],
+    [
+      1.015608,
+      "remote: Counting objects: 89, done.\u001b[K\r\n"
+    ],
+    [
+      3.7e-05,
+      "remote: Total 89 (delta 0), reused 0 (delta 0), pack-reused 89\u001b[K\r\n"
+    ],
+    [
+      0.004819,
+      "Receiving objects:   1% (1/89)   \rReceiving objects:   2% (2/89)   \r"
+    ],
+    [
+      4.3e-05,
+      "Receiving objects:   3% (3/89)   \rReceiving objects:   4% (4/89)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:   5% (5/89)   \r"
+    ],
+    [
+      4e-05,
+      "Receiving objects:   6% (6/89)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:   7% (7/89)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:   8% (8/89)   \r"
+    ],
+    [
+      4e-05,
+      "Receiving objects:  10% (9/89)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  11% (10/89)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  12% (11/89)   \r"
+    ],
+    [
+      4.3e-05,
+      "Receiving objects:  13% (12/89)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  14% (13/89)   \r"
+    ],
+    [
+      3.6e-05,
+      "Receiving objects:  15% (14/89)   \rReceiving objects:  16% (15/89)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:  17% (16/89)   \rReceiving objects:  19% (17/89)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  20% (18/89)   \r"
+    ],
+    [
+      3.6e-05,
+      "Receiving objects:  21% (19/89)   \r"
+    ],
+    [
+      0.000139,
+      "Receiving objects:  22% (20/89)   \rReceiving objects:  23% (21/89)   \rReceiving objects:  24% (22/89)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:  25% (23/89)   \rReceiving objects:  26% (24/89)   \r"
+    ],
+    [
+      1.3e-05,
+      "Receiving objects:  28% (25/89)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects:  29% (26/89)   \r"
+    ],
+    [
+      3.9e-05,
+      "Receiving objects:  30% (27/89)   \rReceiving objects:  31% (28/89)   \r"
+    ],
+    [
+      1.5e-05,
+      "Receiving objects:  32% (29/89)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:  33% (30/89)   \rReceiving objects:  34% (31/89)   \r"
+    ],
+    [
+      2.3e-05,
+      "Receiving objects:  35% (32/89)   \r"
+    ],
+    [
+      3.6e-05,
+      "Receiving objects:  37% (33/89)   \rReceiving objects:  38% (34/89)   \r"
+    ],
+    [
+      1.4e-05,
+      "Receiving objects:  39% (35/89)   \r"
+    ],
+    [
+      3.6e-05,
+      "Receiving objects:  40% (36/89)   \rReceiving objects:  41% (37/89)   \r"
+    ],
+    [
+      0.007147,
+      "Receiving objects:  42% (38/89)   \rReceiving objects:  43% (39/89)   \rReceiving objects:  44% (40/89)   \r"
+    ],
+    [
+      3.9e-05,
+      "Receiving objects:  46% (41/89)   \rReceiving objects:  47% (42/89)   \rReceiving objects:  48% (43/89)   \rReceiving objects:  49% (44/89)   \rReceiving objects:  50% (45/89)   \rReceiving objects:  51% (46/89)   \rReceiving objects:  52% (47/89)   \rReceiving objects:  53% (48/89)   \rReceiving objects:  55% (49/89)   \rReceiving objects:  56% (50/89)   \rReceiving objects:  57% (51/89)   \rReceiving objects:  58% (52/89)   \rReceiving objects:  59% (53/89)   \rReceiving objects:  60% (54/89)   \rReceiving objects:  61% (55/89)   \rReceiving objects:  62% (56/89)   \rReceiving objects:  64% (57/89)   \rReceiving objects:  65% (58/89)   \rReceiving objects:  66% (59/89)   \rReceiving objects:  67% (60/89)   \rReceiving objects:  68% (61/89)   \rReceiving objects:  69% (62/89)   \rReceiving objects:  70% (63/89)   \rReceiving objects:  71% (64/89)   \rReceiving objects:  73% (65/89)   \rReceiving objects:  74% (66/89)   \rReceiving objects:  75% (67/89)   \rReceiving objects:  76% (68/89)   \rReceiving objects:  77% (69/89)   \rReceiving"
+    ],
+    [
+      6.5e-05,
+      " objects:  78% (70/89)   \r"
+    ],
+    [
+      3.1e-05,
+      "Receiving objects:  79% (71/89)   \rReceiving objects:  80% (72/89)   \rReceiving objects:  82% (73/89)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  83% (74/89)   \r"
+    ],
+    [
+      5.3e-05,
+      "Receiving objects:  84% (75/89)   \rReceiving objects:  85% (76/89)   \rReceiving objects:  86% (77/89)   \rReceiving objects:  87% (78/89)   \r"
+    ],
+    [
+      5.9e-05,
+      "Receiving objects:  88% (79/89)   \rReceiving objects:  89% (80/89)   \r"
+    ],
+    [
+      1.9e-05,
+      "Receiving objects:  91% (81/89)   \rReceiving objects:  92% (82/89)   \rReceiving objects:  93% (83/89)   \r"
+    ],
+    [
+      1.2e-05,
+      "Receiving objects:  94% (84/89)   \r"
+    ],
+    [
+      1e-05,
+      "Receiving objects:  95% (85/89)   \r"
+    ],
+    [
+      1e-05,
+      "Receiving objects:  96% (86/89)   \r"
+    ],
+    [
+      3.6e-05,
+      "Receiving objects:  97% (87/89)   \rReceiving objects:  98% (88/89)   \r"
+    ],
+    [
+      1.1e-05,
+      "Receiving objects: 100% (89/89)   \rReceiving objects: 100% (89/89), 15.83 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000265,
+      "Resolving deltas:   0% (0/33)   \r"
+    ],
+    [
+      0.000189,
+      "Resolving deltas:   6% (2/33)   \r"
+    ],
+    [
+      1.6e-05,
+      "Resolving deltas:  12% (4/33)   \r"
+    ],
+    [
+      3.1e-05,
+      "Resolving deltas:  21% (7/33)   \rResolving deltas:  24% (8/33)   \r"
+    ],
+    [
+      4.3e-05,
+      "Resolving deltas:  30% (10/33)   \r"
+    ],
+    [
+      7.1e-05,
+      "Resolving deltas:  39% (13/33)   \r"
+    ],
+    [
+      4.6e-05,
+      "Resolving deltas:  42% (14/33)   \r"
+    ],
+    [
+      9.5e-05,
+      "Resolving deltas:  51% (17/33)   \r"
+    ],
+    [
+      0.000102,
+      "Resolving deltas:  63% (21/33)   \r"
+    ],
+    [
+      2.1e-05,
+      "Resolving deltas:  69% (23/33)   \r"
+    ],
+    [
+      1.7e-05,
+      "Resolving deltas:  72% (24/33)   \r"
+    ],
+    [
+      8e-05,
+      "Resolving deltas:  78% (26/33)   \r"
+    ],
+    [
+      6.9e-05,
+      "Resolving deltas:  87% (29/33)   \r"
+    ],
+    [
+      2.9e-05,
+      "Resolving deltas:  90% (30/33)   \rResolving deltas:  93% (31/33)   \r"
+    ],
+    [
+      4.8e-05,
+      "Resolving deltas:  96% (32/33)   \r"
+    ],
+    [
+      0.000117,
+      "Resolving deltas: 100% (33/33)   \r"
+    ],
+    [
+      7.7e-05,
+      "Resolving deltas: 100% (33/33), done.\r\n"
+    ],
+    [
+      0.052801,
+      "\u001b[32mnycnode-denormalizer ✓\u001b[39m\r\n"
+    ],
+    [
+      0.00667,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.00011,
+      "\u001b]2;mateodelnorte@Matthews-MBP: ~/development/meta-is-awesome\u0007\u001b]1;..ta-is-awesome\u0007"
+    ],
+    [
+      0.031289,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mmeta-is-awesome\u001b[00m \u001b[K"
+    ],
+    [
+      6.8e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.8e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.530596,
+      "#"
+    ],
+    [
+      0.583477,
+      "\b#w"
+    ],
+    [
+      0.047187,
+      "e"
+    ],
+    [
+      0.185197,
+      "'"
+    ],
+    [
+      0.135538,
+      "v"
+    ],
+    [
+      0.048023,
+      "e"
+    ],
+    [
+      0.095884,
+      " "
+    ],
+    [
+      0.264108,
+      "n"
+    ],
+    [
+      0.032002,
+      "o"
+    ],
+    [
+      0.143953,
+      "w"
+    ],
+    [
+      0.079731,
+      " "
+    ],
+    [
+      0.272435,
+      "c"
+    ],
+    [
+      0.079679,
+      "l"
+    ],
+    [
+      0.184163,
+      "o"
+    ],
+    [
+      0.031879,
+      "n"
+    ],
+    [
+      0.120123,
+      "e"
+    ],
+    [
+      0.335904,
+      "d"
+    ],
+    [
+      0.12782,
+      " "
+    ],
+    [
+      1.143778,
+      "o"
+    ],
+    [
+      0.023147,
+      "u"
+    ],
+    [
+      0.088316,
+      "r"
+    ],
+    [
+      0.088927,
+      " "
+    ],
+    [
+      0.208007,
+      "m"
+    ],
+    [
+      0.079913,
+      "e"
+    ],
+    [
+      0.14409,
+      "a"
+    ],
+    [
+      0.12779,
+      "t"
+    ],
+    [
+      0.455182,
+      "\b \b"
+    ],
+    [
+      0.137474,
+      "\b \b"
+    ],
+    [
+      0.031599,
+      "t"
+    ],
+    [
+      0.063982,
+      "a"
+    ],
+    [
+      0.111513,
+      " "
+    ],
+    [
+      0.240258,
+      "r"
+    ],
+    [
+      0.071987,
+      "e"
+    ],
+    [
+      0.112325,
+      "p"
+    ],
+    [
+      0.055694,
+      "o"
+    ],
+    [
+      0.167904,
+      " "
+    ],
+    [
+      0.160141,
+      "a"
+    ],
+    [
+      0.191748,
+      "d"
+    ],
+    [
+      0.56798,
+      "\b \b"
+    ],
+    [
+      0.240182,
+      "n"
+    ],
+    [
+      0.080077,
+      "d"
+    ],
+    [
+      0.055686,
+      " "
+    ],
+    [
+      0.152286,
+      "a"
+    ],
+    [
+      0.064975,
+      "l"
+    ],
+    [
+      0.134886,
+      "l"
+    ],
+    [
+      0.0797,
+      " "
+    ],
+    [
+      0.176004,
+      "i"
+    ],
+    [
+      0.088366,
+      "t"
+    ],
+    [
+      0.223994,
+      "s"
+    ],
+    [
+      0.087883,
+      " "
+    ],
+    [
+      0.216192,
+      "c"
+    ],
+    [
+      0.095924,
+      "h"
+    ],
+    [
+      0.047732,
+      "i"
+    ],
+    [
+      0.056232,
+      "l"
+    ],
+    [
+      0.128127,
+      "d"
+    ],
+    [
+      0.064654,
+      " "
+    ],
+    [
+      0.127307,
+      "p"
+    ],
+    [
+      0.094944,
+      "r"
+    ],
+    [
+      0.129032,
+      "o"
+    ],
+    [
+      0.127989,
+      "j"
+    ],
+    [
+      0.271824,
+      "e"
+    ],
+    [
+      0.408121,
+      "c"
+    ],
+    [
+      0.216124,
+      "t"
+    ],
+    [
+      0.095838,
+      "s"
+    ],
+    [
+      0.823911,
+      "/"
+    ],
+    [
+      0.216133,
+      "r"
+    ],
+    [
+      0.063979,
+      "e"
+    ],
+    [
+      0.071985,
+      "p"
+    ],
+    [
+      0.086802,
+      "o"
+    ],
+    [
+      0.104858,
+      "s"
+    ],
+    [
+      0.520253,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      3.3e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.009765,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      7e-05,
+      "\u001b]2;mateodelnorte@Matthews-MBP: ~/development/meta-is-awesome\u0007\u001b]1;..ta-is-awesome\u0007"
+    ],
+    [
+      0.043948,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mmeta-is-awesome\u001b[00m \u001b[K"
+    ],
+    [
+      3.7e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      5.2e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.625751,
+      "c"
+    ],
+    [
+      0.072323,
+      "\bcd"
+    ],
+    [
+      0.062594,
+      " "
+    ],
+    [
+      0.16125,
+      "n"
+    ],
+    [
+      0.222986,
+      "y"
+    ],
+    [
+      0.1399,
+      "cnode\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.429089,
+      "\b\u001b[0m \b"
+    ],
+    [
+      3.3e-05,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000135,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.009689,
+      "\u001b]2;cd nycnode\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      9.8e-05,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      5e-05,
+      "\u001b]2;mateodelnorte@Matthews-MBP: ~/development/meta-is-awesome/nycnode\u0007\u001b]1;..esome/nycnode\u0007"
+    ],
+    [
+      0.060769,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mnycnode\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m \u001b[K"
+    ],
+    [
+      2.7e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.2e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.408152,
+      "l"
+    ],
+    [
+      0.057047,
+      "\bls"
+    ],
+    [
+      0.103957,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      3.3e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.009833,
+      "\u001b]2;ls -G\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.005791,
+      "Makefile                 docker-compose.prod.yml  \u001b[1m\u001b[36mnycnode-site\u001b[39;49m\u001b[0m             tmuxinator.all.yml\r\nREADME.md                docker-compose.yml       \u001b[1m\u001b[36mnycnode-user-ingestor\u001b[39;49m\u001b[0m\r\nVagrantfile              \u001b[1m\u001b[36mnycnode-denormalizer\u001b[39;49m\u001b[0m     \u001b[1m\u001b[36mnycnode-youtube-ingestor\u001b[39;49m\u001b[0m\r\n\u001b[1m\u001b[36mansible\u001b[39;49m\u001b[0m                  \u001b[1m\u001b[36mnycnode-meetup-ingestor\u001b[39;49m\u001b[0m  \u001b[1m\u001b[36mscripts\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000317,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000178,
+      "\u001b]2;mateodelnorte@Matthews-MBP: ~/development/meta-is-awesome/nycnode\u0007\u001b]1;..esome/nycnode\u0007"
+    ],
+    [
+      0.034239,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mnycnode\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      4.758717,
+      "l"
+    ],
+    [
+      0.096084,
+      "\bla"
+    ],
+    [
+      0.103897,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      3.3e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.009842,
+      "\u001b]2;ls -G -lAh\u0007\u001b]1;la\u0007"
+    ],
+    [
+      0.005521,
+      "total 112\r\n"
+    ],
+    [
+      0.000144,
+      "-rw-r--r--   1 mateodelnorte  staff   411B May 14 08:02 .eslintrc.js\r\ndrwxr-xr-x  13 mateodelnorte  staff   442B May 14 08:03 \u001b[1m\u001b[36m.git\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 mateodelnorte  staff   138B May 14 08:02 .gitignore\r\n-rw-r--r--   1 mateodelnorte  staff   245B May 14 08:02 .gitslave\r\n-rw-r--r--   1 mateodelnorte  staff    88B May 14 08:02 .looprc\r\n-rw-r--r--   1 mateodelnorte  staff   448B May 14 08:02 .meta\r\n-rw-r--r--   1 mateodelnorte  staff   253B May 14 08:02 .microsvc\r\n"
+    ],
+    [
+      2e-05,
+      "-rw-r--r--   1 mateodelnorte  staff    59B May 14 08:02 .npmignore\r\ndrwxr-xr-x   3 mateodelnorte  staff   102B May 14 08:02 \u001b[1m\u001b[36m.vagrant\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 mateodelnorte  staff   2.7K May 14 08:02 Makefile\r\n-rw-r--r--   1 mateodelnorte  staff   563B May 14 08:02 README.md\r\n-rw-r--r--   1 mateodelnorte  staff   4.6K May 14 08:02 Vagrantfile\r\ndrwxr-xr-x   4 mateodelnorte  staff   136B May 14 08:02 \u001b[1m\u001b[36mansible\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 mateodelnorte  staff   1.7K May 14 08:02 docker-compose.prod.yml\r\n"
+    ],
+    [
+      1.4e-05,
+      "-rw-r--r--   1 mateodelnorte  staff   1.8K May 14 08:02 docker-compose.yml\r\ndrwxr-xr-x  20 mateodelnorte  staff   680B May 14 08:03 \u001b[1m\u001b[36mnycnode-denormalizer\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      1e-05,
+      "drwxr-xr-x  19 mateodelnorte  staff   646B May 14 08:03 \u001b[1m\u001b[36mnycnode-meetup-ingestor\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      1.1e-05,
+      "drwxr-xr-x  29 mateodelnorte  staff   986B May 14 08:03 \u001b[1m\u001b[36mnycnode-site\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      1e-05,
+      "drwxr-xr-x  21 mateodelnorte  staff   714B May 14 08:02 \u001b[1m\u001b[36mnycnode-user-ingestor\u001b[39;49m\u001b[0m\r\ndrwxr-xr-x  19 mateodelnorte  staff   646B May 14 08:02 \u001b[1m\u001b[36mnycnode-youtube-ingestor\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      2.1e-05,
+      "drwxr-xr-x   3 mateodelnorte  staff   102B May 14 08:02 \u001b[1m\u001b[36mscripts\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 mateodelnorte  staff   1.5K May 14 08:02 tmuxinator.all.yml\r\n"
+    ],
+    [
+      0.000461,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000106,
+      "\u001b]2;mateodelnorte@Matthews-MBP: ~/development/meta-is-awesome/nycnode\u0007"
+    ],
+    [
+      1.3e-05,
+      "\u001b]1;..esome/nycnode\u0007"
+    ],
+    [
+      0.04653,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mnycnode\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m \u001b[K"
+    ],
+    [
+      4.7e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      4.4e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.057284,
+      "c"
+    ],
+    [
+      0.159704,
+      "\bca"
+    ],
+    [
+      0.12028,
+      "t"
+    ],
+    [
+      0.103642,
+      " "
+    ],
+    [
+      0.168138,
+      "."
+    ],
+    [
+      0.200065,
+      "m"
+    ],
+    [
+      0.103719,
+      "e"
+    ],
+    [
+      0.096146,
+      "t"
+    ],
+    [
+      0.087983,
+      "a"
+    ],
+    [
+      0.43207,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      3.4e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.01019,
+      "\u001b]2;cat .meta\u0007\u001b]1;cat\u0007"
+    ],
+    [
+      0.003311,
+      "{\r\n  \"projects\": {\r\n    \"nycnode-denormalizer\": \"git@github.com:mateodelnorte/nycnode-denormalizer.git\",\r\n    \"nycnode-meetup-ingestor\": \"git@github.com:mateodelnorte/nycnode-meetup-ingestor.git\",\r\n    \"nycnode-site\": \"git@github.com:mateodelnorte/nycnode-site.git\",\r\n    \"nycnode-user-ingestor\": \"git@github.com:mateodelnorte/nycnode-user-ingestor.git\",\r\n    \"nycnode-youtube-ingestor\": \"git@github.com:mateodelnorte/nycnode-youtube-ingestor.git\"\r\n  }\r\n}\r\n"
+    ],
+    [
+      0.000265,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                     \r \r"
+    ],
+    [
+      0.000114,
+      "\u001b]2;mateodelnorte@Matthews-MBP: ~/development/meta-is-awesome/nycnode\u0007\u001b]1;..esome/nycnode\u0007"
+    ],
+    [
+      0.047313,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜  \u001b[36mnycnode\u001b[00m \u001b[01;34mgit:(\u001b[31mmaster\u001b[34m)\u001b[00m \u001b[K"
+    ],
+    [
+      2e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.602625,
+      "e"
+    ],
+    [
+      0.207977,
+      "\bex"
+    ],
+    [
+      0.12794,
+      "i"
+    ],
+    [
+      0.127977,
+      "t"
+    ],
+    [
+      0.143902,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      3.5e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.009835,
+      "\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ],
+  "version": 1,
+  "duration": 36.559463,
+  "height": 32,
+  "command": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  }
+}
